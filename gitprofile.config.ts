@@ -35,9 +35,9 @@ const CONFIG = {
         {
           title: 'Разработка и поддержка DWH',
           description:
-            'Архитектура  -mix Data Vault 2.0 и Anchor Modeling. СУБД - GrennPlum. ETL/ELT - Apache NiFi + Apache Airflow. BI - Metabase.',
+            'Архитектура  -mix Data Vault 2.0 и Anchor Modeling. СУБД - GreenPlum. ETL/ELT - Apache NiFi + Apache Airflow. BI - Metabase.',
           imageUrl:
-            'https://github.com/adtitovich/portfolio/blob/main/img/nda.jpg',
+            'https://raw.githubusercontent.com/adtitovich/portfolio/main/img/nda.jpg',
           link: '',
         },
       ],
