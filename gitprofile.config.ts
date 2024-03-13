@@ -35,7 +35,7 @@ const CONFIG = {
         {
           title: 'Разработка и поддержка DWH',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Архитектура  -mix Data Vault 2.0 и Anchor Modeling. СУБД - GrennPlum. ETL/ELT - Apache NiFi + Apache Airflow. BI - Metabase.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
